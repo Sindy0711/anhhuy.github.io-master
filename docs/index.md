@@ -81,7 +81,6 @@ Software Developer transitioning into **AI & Cloud Computing**. Specialized in a
 ## 💼 Work Experience
 
 ### Kassom ( Production-Ready Platform)
-
 **Frontend Developer** | _Jun 2021 – Feb 2022_
 
 <table>
@@ -134,6 +133,113 @@ Software Developer transitioning into **AI & Cloud Computing**. Specialized in a
     </tr>
   </tbody>
 </table>
+
+
+### PulseBoard Dashboard (Production-Ready Platform)
+**Frontend Developer** | Jun 2021 – Feb 2022
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        A high-performance productivity dashboard featuring a Pomodoro timer and real-time weather integration, designed for seamless user workflow management.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li><strong>State Management & Features:</strong> Leveraged Zustand for lightweight, global state management to drive the Pomodoro timer and interactive UI elements.</li>
+          <li><strong>Containerization & Traffic Management:</strong> Containerized the entire application utilizing Docker and configured an Nginx reverse proxy to manage traffic efficiently.</li>
+          <li><strong>Deployment Pipeline:</strong> Deployed the production build via Vercel to leverage global edge distribution and optimized asset loading paths.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li><strong>DevOps Proficiency:</strong> Gained hands-on experience in containerizing frontend applications and managing reverse proxies for better security and routing.</li>
+          <li><strong>Performance Optimization:</strong> Reduced initial load times by optimizing asset loading and leveraging edge deployment networks.</li>
+          <li><strong>Responsive UI:</strong> Crafted a modern, responsive layout using Tailwind CSS to ensure a consistent dashboard experience across devices.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>React</li>
+          <li>Vite</li>
+          <li>Tailwind CSS</li>
+          <li>Zustand</li>
+          <li>Nginx</li>
+          <li>Vercel</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Minicord (Real-Time Communication Architecture)
+**Frontend Developer** | Jun 2021 – Feb 2022
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        A scalable and lightweight communication architecture focusing strictly on optimized state management and instant, real-time UI synchronization.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li><strong>State Engineering:</strong> Designed and implemented global state handling patterns using Zustand, effectively isolating component updates.</li>
+          <li><strong>Custom Hook Development:</strong> Engineered custom React hooks to decouple complex business logic and real-time state from the presentation layer.</li>
+          <li><strong>Architecture Containerization:</strong> Standardized the local development and deployment environment using Docker containers.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li><strong>Rendering Optimization:</strong> Eliminated unnecessary React re-renders completely in highly dynamic views by fine-tuning Zustand selectors.</li>
+          <li><strong>Modular Codebase:</strong> Built a highly modular and extensible architecture through custom hooks, making the code clean and easily testable.</li>
+          <li><strong>Modern Styling:</strong> Achieved fluid layout responses across viewports using utility-first styling with Tailwind CSS.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>React</li>
+          <li>Vite</li>
+          <li>Tailwind CSS</li>
+          <li>Zustand</li>
+          <li>Docker</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ---

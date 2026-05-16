@@ -1,11 +1,11 @@
 site_name: Huy Đoàn
 site_description: Resume and portfolio website for Đoàn Trần Anh Huy (Hiro)
 site_author: Đoàn Trần Anh Huy (Hiro)
-site_url: https://sindy0711.github.io/anhhuy.github.io-master/
+site_url: https://anhhuy071/anhhuy.github.io/
 
 # Repository
-repo_name: Sindy0711/anhhuydoan.github.io
-repo_url: https://github.com/Sindy0711/anhhuy.github.io-master
+repo_name: /anhhuy.github.io
+repo_url: https://github.com/anhhuy071/anhhuy.github.io
 edit_uri: edit/main/docs/
 
 docs_dir: docs
